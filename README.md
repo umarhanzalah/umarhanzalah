@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gambar-umar.jpeg" alt="Umar Hanzalah" width="200" style="border-radius: 50%;">
+  <img src="gambar umar" alt="Umar Hanzalah" width="200" style="border-radius: 50%;">
 </p>
 
 # Hai, saya Umar Hanzalah 👋
